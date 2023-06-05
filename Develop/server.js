@@ -1,3 +1,6 @@
+//IMPORT DOTENV MODULE
+require('dotenv').config()
+
 //IMPORT EXPRESS MODULE & ROUTES
 const express = require('express');
 const routes = require('./routes');
