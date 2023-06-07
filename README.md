@@ -20,17 +20,6 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
 
 The challenge was to build the back end for an e-commerce site. Which will take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
-The application will be invoked by using the following command:
-
-```bash
-node server.js
-```
-or 
-
-```bash
-npm start
-```
-
 ## User Story
 
 ```md
@@ -56,15 +45,19 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Preview Images
-- ## Preview 1 - Schema
-![Website Preview Image](./assets/demo-01.png)
-- ## Preview 2 - Terminal
-![Website Preview Image](./assets/employbase-preview-1.png)
-- ## Preview 3 - Terminal
-![Website Preview Image](./assets/employbase-preview-2.png)
+- ## Preview 1 - Terminal
+![Website Preview Image](./assets/preview-1.png)
+- ## Preview 2 - GET
+![Website Preview Image](./assets/product-preview.png)
+- ## Preview 3 - POST
+![Website Preview Image](./assets/post-preview.png)
+- ## Preview 4 - PUT
+![Website Preview Image](./assets/put-preview.png)
+- ## Preview 5 - DELETE
+![Website Preview Image](./assets/delete-preview.png)
 
 ## Link To Walkthru Video
-**Walkthrough Video:** [Link To Walkthru Video](https://www.youtube.com/watch?v=sP7m29WxV7M) 
+**Walkthrough Video:** [Link To Walkthru Video](https://youtu.be/N3OneFKybxs) 
 
 
 ## Installation and Usage
@@ -127,9 +120,9 @@ Assignment was built with:
 - Institution: The University Of Toronto
 - Course: Bootcamp Full Stack Development
 - Instructor: Ali Masqood
-- Tutor: Katie Redford 
-- Learing Assistant Ask BCS Support: Erik (dluna5629), Keegan (kwedwick), Alex (abradshaw), Diego (dmarrs)
-- Online Support: W3Schools, Youtube, SQL Shack, mySQL, Stack Overflow
+- Tutor: Jose Lopez 
+- Learing Assistant Ask BCS Support: Ntando (nmendu)
+- Online Support: W3Schools, Youtube, SQL Shack, mySQL, Stack Overflow, Sequelize.org
 - License badges: Sheilds.io
 
 
