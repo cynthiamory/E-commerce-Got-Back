@@ -6,6 +6,7 @@ const sequelize = require('../config/connection.js');
 //INITIALIZE PRODUCT MODEL (TABLE) BY EXTENDING OFF SEQUELIZE'S MODEL CLASS
 class Tag extends Model {}
 
+
 Tag.init(
   {
     // define columns
